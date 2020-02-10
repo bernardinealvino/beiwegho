@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uaveesheik.elgigante.club/sitemap.xml
